@@ -1,0 +1,19 @@
+body
+{
+  font-family: sans-serif;
+}
+.price
+{
+  background-color: blue;
+  color:#fff;
+  position: absolute;
+  top:0;
+  right:30px;
+  padding: 10px;
+  font-weight: 600;
+}
+.product
+{
+  position: relative;
+  
+}
